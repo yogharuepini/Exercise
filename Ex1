@@ -1,0 +1,13 @@
+// Exercise 1 //
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "University: UTeM, Melaka\n";
+	cout << "Faculty: FTMK\n";
+	cout << "Programme: BITI\n";
+	cout << "\nMy name is Yogha Ruepini. I am from Kuala Lumpur.";
+	return 0;
+}
