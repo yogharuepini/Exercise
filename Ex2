@@ -1,0 +1,13 @@
+// Exercise 2 //
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "*************************************\n";
+	cout << "*****\t\tUTEM\t\t*****\n";
+	cout << "*************************************\n";
+	cout << "Press any key to continue...";
+	return 0;
+}
